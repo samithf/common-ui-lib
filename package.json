@@ -1,5 +1,5 @@
 {
-  "name": "@samith/common",
+  "name": "samcommonlib",
   "version": "1.0.0",
   "description": "A dummy react npm module",
   "main": "build/lib/index.js",
